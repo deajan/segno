@@ -202,6 +202,18 @@ All factory functions use the same parameters to specify the desired error
 level, version, data mask etc., see `Segno's documentation`_ for details.
 
 
+GUI
+^^^
+
+A graphical user interface for segno also exists as a community effort at `NetInvent <https://github.com/netinvent/segno_ui/>`_
+
+It comes with prebuilt executables for Windows platforms to make it's usage easy for newcommers.
+It can also be installed on any Python 3.6+ platform:
+
+Use ``pip`` to install segno-ui from PyPI::
+
+    $ pip install segno
+
 Documentation
 -------------
 Read the online documentation at <https://segno.readthedocs.io/>
